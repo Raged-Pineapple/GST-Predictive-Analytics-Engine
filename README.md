@@ -1,4 +1,4 @@
-# GST Analytics Hackathon: Developing a Predictive Model in GST
+# GST Analytics: Developing a Predictive Model in GST
 
 ## Overview
 This repository contains the implementation of a predictive model for the **GSTN Hackathon** analytics challenge. The goal was to construct a model `Fθ(X) → Ypred` that accurately estimates the target variable `Yi` for unseen inputs `Xi`. This project focused on advanced data preprocessing, handling imbalanced datasets, and developing an optimal neural network solution.
